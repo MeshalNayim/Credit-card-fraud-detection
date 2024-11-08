@@ -1,4 +1,4 @@
-# credit
+# Credit card fraud detection using machine learning
 This project focuses on detecting fraudulent credit card transactions using machine learning. The dataset used in this project contains transactions made by credit cards in September 2013 by European cardholders. The dataset presents transactions that occurred over two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, with the positive class (frauds) accounting for 0.172% of all transactions.
 
 Dataset
